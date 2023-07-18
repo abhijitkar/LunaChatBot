@@ -1,7 +1,7 @@
 {
-  "name": "Luna The Chat Bot",
+  "name": "𝙇𝙚𝙤𝙣𝙚 𝘿𝙞𝙙𝙞 { 🇮🇳 } Chat Bot",
   "description": "Just another Telegram AI chat bot written in Python using Pyrogram.",
-  "repository": "https://github.com/TheHamkerCat/LunaChatBot",
+  "repository": "https://github.com/abhijitkar/LunaChatBot",
   "keywords" : [
     "python",
     "ai-bot",
